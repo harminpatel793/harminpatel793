@@ -27,9 +27,9 @@
 ### 👋 About Me
 
 - 🔭 Currently working on **Sales Executive Dashboard**
-- 🌱 Aspiring **Data Analyst**, always sharpening my SQL and Python skills
+- 🌱 Aspiring **Data Analyst**, always sharpening my SQL, Excel, Power BI and Python skills
 - 💬 Ask me about **data analysis, dashboards, and visualization**
-- 📫 Reach me at **harminpatel3476@gmail.com**
+- ✉️ Reach me at **harminpatel3476@gmail.com**
 
 ---
 
