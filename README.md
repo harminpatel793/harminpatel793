@@ -26,10 +26,10 @@
 
 ### 👋 About Me
 
-- 🔭 Currently working on **Sales Executive Dashboard**
-- 🌱 Aspiring **Data Analyst**, always sharpening my SQL, Excel, Power BI and Python skills
+- 🚀 Building interactive Power BI dashboards for business decision-making
+- 🌱 Aspiring **Data Analyst**, always sharpening my SQL and Python skills
 - 💬 Ask me about **data analysis, dashboards, and visualization**
-- ✉️ Reach me at **harminpatel3476@gmail.com**
+- 📫 Reach me at **harminpatel3476@gmail.com**
 
 ---
 
@@ -50,8 +50,6 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-
-
 
 <img src="./profile/streak.svg" width="60%"/>
 
